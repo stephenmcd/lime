@@ -1,0 +1,49 @@
+
+body {background:#eee url('../img/bg.gif') repeat-x fixed; margin:0px; padding:20px; height:1000px;}
+body * {margin:0px; padding:0px; -moz-border-radius:9px;}
+
+h1, div {float:left;}
+h1, div.icon {position:fixed;}
+h1, div.icon img {visibility:hidden;}
+div.icon {top:120px; width:150px;}
+div.info {position:absolute; left:180px;}
+
+h1 {
+	width:130px;
+	height:50px;
+	padding:10px 0px;
+	border:5px solid #eee;
+	background:#5b5;
+	font:2.5em trebuchet ms, sans-serif;
+	color:#fff;
+	letter-spacing:-1pt;
+	text-align:center;
+}
+
+div.icon img {
+	margin:0px 2px 2px 0px;
+	border:1px solid #bbb;
+	border-color:#eee #bbb #bbb #eee;
+	-moz-border-radius:2px;
+	background:#eee;
+}
+
+div.info * {margin-bottom:10px;}
+div.info h2 {background:#eee; padding:5px 10px; margin:20px 0px; font-size:1.5em; color:#888;}
+div.info h2, div.info p {line-height:1.4em;}
+div.info h3, div.info h4, div.info p {text-indent:10px;}
+div.info h3, div.info h4 {font-size:1.2em; color:#777;}
+div.info h4 {margin-bottom:2px;}
+div.info a {color:#585; font-weight:bold;}
+
+div.info {
+	width:520px;
+	border:5px solid #eee;
+	border-bottom-color:#ccc;
+	-moz-border-radius:20px;
+	padding:0px 20px 20px 20px;
+	background:#fff;
+	font:0.9em sans-serif;
+	color:#666;
+}
+
