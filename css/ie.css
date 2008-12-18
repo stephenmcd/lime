@@ -1,0 +1,10 @@
+h1, div.icon {position:absolute;}
+h1 {width:137px;}
+
+div.info {left:177px; width:570px;}
+div.info * {font:bold;}
+div.info p {font:normal;}
+
+form.console {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);}
+form.console textarea {width:320px;}
+form.console input.consoleIn {width:280px;}

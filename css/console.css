@@ -1,0 +1,56 @@
+
+form.console, form.console textarea, form.console input {
+	border:1px solid #bbb;
+}
+
+form.console {
+	background:#ccc;
+	z-index:9999;
+	position:absolute;
+	top:40px;
+	right:40px;
+	padding:15px;
+	width:350px;
+	opacity:.8;
+	white-space:nowrap;
+}
+
+form.console * {
+	background:#444;
+	font:10px tahoma, sans-serif;
+	color:#fff;
+	margin:7px 0px;
+}
+
+form.console textarea {
+	width:350px;
+	height:250px;
+}
+
+form.console textarea, form.console input {
+	padding:3px;
+}
+
+form.console select {
+	display:block;
+	width:100%;
+}
+
+form.console option {
+	margin:-2px 0px;
+}
+
+form.console input {
+	height:20px;
+}
+
+form.console input.consoleIn {
+	width:310px;
+}
+
+form.console input.consoleButton {
+	width:30px;
+	padding-top:1px;
+	margin-left:7px;
+	cursor:pointer;
+}
