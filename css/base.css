@@ -9,23 +9,23 @@ div.icon {top:120px; width:150px;}
 div.info {position:absolute; left:180px;}
 
 h1 {
-	width:130px;
-	height:50px;
-	padding:10px 0px;
-	border:5px solid #eee;
-	background:#5b5;
-	font:2.5em trebuchet ms, sans-serif;
-	color:#fff;
-	letter-spacing:-1pt;
-	text-align:center;
+  width:130px;
+  height:50px;
+  padding:10px 0px;
+  border:5px solid #eee;
+  background:#5b5;
+  font:2.5em trebuchet ms, sans-serif;
+  color:#fff;
+  letter-spacing:-1pt;
+  text-align:center;
 }
 
 div.icon img {
-	margin:0px 2px 2px 0px;
-	border:1px solid #bbb;
-	border-color:#eee #bbb #bbb #eee;
-	-moz-border-radius:2px;
-	background:#eee;
+  margin:0px 2px 2px 0px;
+  border:1px solid #bbb;
+  border-color:#eee #bbb #bbb #eee;
+  -moz-border-radius:2px;
+  background:#eee;
 }
 
 div.info * {margin-bottom:10px;}
@@ -37,13 +37,13 @@ div.info h4 {margin-bottom:2px;}
 div.info a {color:#585; font-weight:bold;}
 
 div.info {
-	width:520px;
-	border:5px solid #eee;
-	border-bottom-color:#ccc;
-	-moz-border-radius:20px;
-	padding:0px 20px 20px 20px;
-	background:#fff;
-	font:0.9em sans-serif;
-	color:#666;
+  width:520px;
+  border:5px solid #eee;
+  border-bottom-color:#ccc;
+  -moz-border-radius:20px;
+  padding:0px 20px 20px 20px;
+  background:#fff;
+  font:0.9em sans-serif;
+  color:#666;
 }
 
